@@ -20,6 +20,7 @@ includeRawData|if set to true the raw binary data is included in the return obje
 check the msg['type'] before reading values
 
 **AlarmMSGType.MESSAGE**
+
 Key|Disc.
 ---------|----
 type|The Type of message returned
@@ -38,6 +39,7 @@ msg|The string message the keypad should display
 <BR>
 
 **AlarmMSGType.STATUS**
+
 Key|Disc.
 ---------|----
 type|The Type of message returned
